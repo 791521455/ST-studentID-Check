@@ -1,5 +1,4 @@
 # ST-studentID-Check
-# 无意间找到一个API
 **API**
 > https://www.***.***/***/***/***/(联系管理员)
 ## 下载python库
